@@ -1,2 +1,4 @@
 New file named hello_mercury.txt
 testing changes here 123
+
+Population: 0
